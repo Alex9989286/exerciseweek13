@@ -1,6 +1,6 @@
 import streamlit as st, requests
 
-N8N = "https://alexngjansheng.app.n8n.cloud/webhook-tests"
+N8N = "https://alexngjiansheng.app.n8n.cloud/webhook/retention"
 
 
 st.title("Smart Customer Retention Assistant")
