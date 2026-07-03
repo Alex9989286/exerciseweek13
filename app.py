@@ -1,6 +1,6 @@
 import streamlit as st, requests
 
-N8N = "YOUR N8N WEBHOOK URL"
+N8N = "https://exerciseweek13-1-tonp.onrender.com"
 
 
 st.title("Smart Customer Retention Assistant")
